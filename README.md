@@ -11,7 +11,7 @@ CryptoApp is an Android application that displays cryptocurrency prices. The app
 
 ## Screenshot
 
-![CryptoApp Screenshot](./mnt/data/Zrzut%20ekranu%202024-05-30%20o%2013.37.16.png)
+![CryptoApp Screenshot](./CryptoApp.png)
 
 ## Installation
 
