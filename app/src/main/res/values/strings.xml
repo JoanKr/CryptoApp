@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="crypto_price_list_fragment_label">Crypto Prices</string>
+
+    <!-- Strings used in CryptoPriceListFragment -->
+    <string name="crypto_name">Crypto Name</string>
+    <string name="price">Price</string>
+    <string name="saved_to_database_msg">Saved %1$s to database</string>
+    <string name="removed_from_database_msg">Removed %1$s from database</string>
+    <string name="fetch_data_error_msg">Failed to fetch data</string>
+</resources>
